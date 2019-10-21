@@ -1,0 +1,124 @@
+
+#main-nav {
+    font-size: 14px;
+    
+}
+
+#main-nav h3 {
+    font-size: 20px;
+}
+
+.navbar .nav-item.active {
+    border-left: 1px solid white
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-image-1 {
+    background: url('../img/image1.jpg');
+    background-size: cover;
+}
+.carousel-image-2 {
+    background: url('../img/image2.jpg');
+    background-size: cover;
+}
+
+.imgContainer img {
+   
+    mix-blend-mode: multiply;
+}
+
+.imgContainer1 img {
+   
+    mix-blend-mode: multiply;
+}
+
+footer {
+    color: black;
+}
+
+footer a {
+    color: black !important;
+    text-decoration: none !important;
+
+
+}
+
+#categories {
+    background:url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+    color: black;
+}
+
+.dark-overlay {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(243, 240, 240, 0.5)
+
+}
+
+
+#categories img {
+    width: 150px;
+    height: 330px;
+}
+
+.image_contact {
+    height: 200px;
+    background: url('./img/image1.jpg');
+    background-position: 0 -360px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-top: 50px;
+}
+
+
+
+.img_aboutus {
+    margin-top: -100px;
+   
+    
+}
+
+.account_menu {
+    border: 1px solid grey;
+    width: 60px;
+    height: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;    
+    background-color: lightgrey;
+    display: none;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.enter {
+    display: block;
+    margin: 10px auto;
+}
+
+.register {
+    display: block;
+    margin: 10px auto;
+}
+
+
+.container-fluid {
+    width: 200px;
+    height: 120px;
+}
+
+
+
+
+
