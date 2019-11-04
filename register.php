@@ -20,7 +20,7 @@ global $connection;
 
   
 
-//$connection = mysqli_connect ('localhost:3306', 'mysmartw_admin', 'rider47040288', 'mysmartw_login');
+
 $connection = mysqli_connect ('localhost', 'root', '', 'login');
 
    $hashFormat ="$2y$10$";
